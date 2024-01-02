@@ -1,6 +1,6 @@
 # Archives
 
-Collection of archived downloads in case the original sources disappear.
+This repository archives source code and other files used by the MOEA Framework.
 
 ## http://code.evanhughes.org/
 
@@ -12,3 +12,9 @@ Last Updated: 12/31/2023
 * [Multiple Single-Objective Pareto Sampling Version 2(MSOPS-II, CEC 2007) Software and Paper (bug-fix 16/6/08)](msops2.zip)
 * [PPSN paper Multi-Objective Equivalent Random Search (MOERS) Software examples](moers.zip)
 * [EMO 2007 Many-Objective Radar Waveform Software and Paper (updated 02/02/2020 for R2019 version of Matlab)](radar_many.zip)
+
+  ## http://www.soft-computing.de/jin-pub_year.html
+
+  Last Updated: 01/01/2024
+
+  * [LSMOP Source Code](LSMOP_Matlab.zip)
