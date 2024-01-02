@@ -26,7 +26,7 @@ Last Updated: 01/01/2024
 Source: https://web.ntnu.edu.tw/~tcchiang/publications/nsga3cpp/nsga3cpp.htm  
 Last Updated: 01/01/2024
 
-* [NSGA3 C++ Source Code](nsga3cpp/nsga3cpp1.20.rar)
+* [NSGA3 C++ Source Code](nsga3cpp/nsga3cpp1.20.rar) - Note: this is an unofficial implementation
 
 ## MDOLab
 
