@@ -4,7 +4,7 @@ This repository archives source code and other files used by the MOEA Framework.
 
 ## Evan Hughes (MSOPS, Radar Waveform)
 
-Source: http://code.evanhughes.org/
+Source: http://code.evanhughes.org/  
 Last Updated: 12/31/2023
 
 * [Many Objective Directed Evolutionary Line Search, paper and code for Gecco 2011](evanhughes/MODELS_code.zip)
@@ -16,29 +16,29 @@ Last Updated: 12/31/2023
 
 ## LSMOP
 
-Source: http://www.soft-computing.de/jin-pub_year.html
+Source: http://www.soft-computing.de/jin-pub_year.html  
 Last Updated: 01/01/2024
 
 * [LSMOP Source Code](LSMOP/LSMOP_Matlab.zip)
 
 ## NSGA3
 
-Source: https://web.ntnu.edu.tw/~tcchiang/publications/nsga3cpp/nsga3cpp.htm
+Source: https://web.ntnu.edu.tw/~tcchiang/publications/nsga3cpp/nsga3cpp.htm  
 Last Updated: 01/01/2024
 
 * [NSGA3 C++ Source Code](nsga3cpp/nsga3cpp1.20.rar)
 
 ## MDOLab
 
-Source: http://www.mdolab.net/research_resources.html
+Source: http://www.mdolab.net/research_resources.html  
 Last Updated: 01/01/2024
 
 * [DBEA Source Code](mdolab/Matlab-DBEA.rar)
 
 ## CMA-ES
 
-Source: https://cma-es.github.io/cmaes_sourcecode_page.html
+Source: https://cma-es.github.io/cmaes_sourcecode_page.html  
 Last Updated: 01/01/2024
 
-* [Java](cmaes/cmaes_java.rar)
+* [Java](cmaes/cmaes_java.jar)
 * [Matlab](cmaes/cmaes.m)
