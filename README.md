@@ -43,6 +43,13 @@ Last Updated: 01/01/2024
 * [Java](cmaes/cmaes_java.jar)
 * [Matlab](cmaes/cmaes.m)
 
+## numbbo/coco
+
+Source: https://github.com/numbbo/coco
+Last Updated: 03/18/2024
+
+* [Source Code](coco-master.zip)
+
 ## Links
 
 * [CEC2021 competition on real-world constrained optimization problems](https://github.com/P-N-Suganthan/2021-RW-MOP
