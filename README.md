@@ -52,5 +52,5 @@ Last Updated: 03/18/2024
 
 ## Links
 
-* [CEC2021 competition on real-world constrained optimization problems](https://github.com/P-N-Suganthan/2021-RW-MOP
+* [CEC2021 competition on real-world constrained optimization problems](https://github.com/P-N-Suganthan/2021-RW-MOP)
 * [Pymop: Collection of test problems in Python](https://github.com/msu-coinlab/pymop)
