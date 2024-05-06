@@ -45,10 +45,18 @@ Last Updated: 01/01/2024
 
 ## numbbo/coco
 
-Source: https://github.com/numbbo/coco
+Source: https://github.com/numbbo/coco  
 Last Updated: 03/18/2024
 
 * [Source Code](coco-master.zip)
+
+## Walking Fish Group
+
+Source: http://www.wfg.csse.uwa.edu.au/toolkit/index.html  
+Last Updated: 05/05/2024
+> :warning: The original website by the authors distributing this code is no longer available.
+
+* [WFG Test Problem Suite](WFG_v2006.03.28.tar.gz)
 
 ## Links
 
